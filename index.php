@@ -89,7 +89,7 @@ $message .= "\n\nTo send a reply, please click-> $email";
     </header>
   </div>
 
-  <div  id="home" class="site-blocks-cover overlay" style="background-image: url(images/hero_1.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
+  <div id="home" class="site-blocks-cover overlay" style="background-image: url(images/hero_1.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
     <div class="container">
       <div class="row align-items-center justify-content-center text-center">
         <div class="col-md-12" data-aos="fade-up" data-aos-delay="400">         
@@ -107,7 +107,7 @@ $message .= "\n\nTo send a reply, please click-> $email";
     </div>
   </div>  
 
-  <!--Services We Offer-->
+  <!--Services We Offer Section-->
   <section id="services" class="site-section">
       <div class="container">
         <div class="row mb-5 justify-content-center">
@@ -159,7 +159,7 @@ $message .= "\n\nTo send a reply, please click-> $email";
       </div>
   </section>
 
-  <!--About Us-->
+  <!--About Us Section-->
   <section id="about-us" class="site-section bg-light">
     <div class="container">
       <div class="row mb-5 justify-content-center">
@@ -192,7 +192,7 @@ $message .= "\n\nTo send a reply, please click-> $email";
     </div>
   </section>
 
-  <!--Our Clients-->
+  <!--Our Clients Section-->
   <section id="clients" class="site-section">
     <div class="container">
       <div class="row mb-5 justify-content-center">
