@@ -4,6 +4,11 @@ html {
   scroll-behavior: smooth;
 }
 
+.mb-5{
+  padding: 7em 0;
+  padding-bottom: 0;
+}
+
 #portfolio {
   padding: 60px 0;
 }
@@ -15,7 +20,7 @@ html {
   text-align: center;
 }
 
-#portfolio #portfolio-flters li {
+#portfolio #portfolio-flterFs li {
   cursor: pointer;
   margin: 15px 15px 15px 0;
   display: inline-block;
